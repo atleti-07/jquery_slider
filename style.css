@@ -77,6 +77,12 @@ footer   {
   padding: 20px;
   text-align: center;
 }
+
+img {
+  width: 100%;
+  height: auto;
+}
+
 @media all and (min-width: 600px) {
 
     .main-menu ul {
